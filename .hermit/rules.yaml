@@ -1,0 +1,9 @@
+rules:
+- pattern: "registry.k8s.pwagner.net/service/token"
+  action: NO_STORE
+- pattern: "registry.k8s.pwagner.net/v2/library/debian-bullseye/.*"
+  action: ALLOW
+- pattern: "debian.mirror.rafal.ca/debian.*/InRelease"
+  action: REFRESH
+- pattern: "debian.mirror.rafal.ca/debian.*"
+  action: ALLOW

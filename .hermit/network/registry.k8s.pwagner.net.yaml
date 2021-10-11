@@ -1,0 +1,42 @@
+? registry.k8s.pwagner.net/v2/library/debian-bullseye/blobs/sha256:3a130cc20f8f7cc42d75b424ce3ef1a8b5066e67511fc7813b411792d6139aa5
+:   responseCode: 200
+    contentType: application/octet-stream
+    contentLength: 10733309
+    sha256: 3a130cc20f8f7cc42d75b424ce3ef1a8b5066e67511fc7813b411792d6139aa5
+    shake256: ccb2447971f72c75697e8de7772c865e484018cf82c6854a852e3276db8fcf77943cb92f7af24849b00ca87d3452091ec16de62550a5abf359947555ce30f26b
+? registry.k8s.pwagner.net/v2/library/debian-bullseye/blobs/sha256:272d528a5726e689cc881720c81f0bec1f068e5358dde7c4585b5336661f6672
+:   responseCode: 200
+    contentType: application/octet-stream
+    contentLength: 1724
+    sha256: 272d528a5726e689cc881720c81f0bec1f068e5358dde7c4585b5336661f6672
+    shake256: 0319e1bc3bb5139056f97576d97df50831cc02a237ac2f6ded80e5c9aa5db26a5f2be847df8e6efad35371cde4dfc8e5407c37767c560ee24597209e128a45e5
+? registry.k8s.pwagner.net/v2/library/debian-bullseye/blobs/sha256:21779819d7035cee1afcd292287bbbf9418694a04fed46e2efee52c853d93e47
+:   responseCode: 200
+    contentType: application/octet-stream
+    contentLength: 251
+    sha256: 21779819d7035cee1afcd292287bbbf9418694a04fed46e2efee52c853d93e47
+    shake256: 43b2772c79fb0c449978e04dd1eefb1298af3cb67cc0cb3495d8063fb41bc011c642448b1f25c91a45cf56e910e1367ac89c023b4d6d9f22be1853f0cff31294
+? registry.k8s.pwagner.net/v2/library/debian-bullseye/blobs/sha256:a27aa636aa551171e952f74034c31c4e705708d2cbab84f911ee858792c12077
+:   responseCode: 200
+    contentType: application/octet-stream
+    contentLength: 700
+    sha256: a27aa636aa551171e952f74034c31c4e705708d2cbab84f911ee858792c12077
+    shake256: b9b43ebfb066cc4b4fa367662de9e6d9c69fdf463c503f042bee983876598e6b975c0b4e791cc51bfe5b9290db8bb5af39070d73c8e676b6581e9b11b4178c4f
+? registry.k8s.pwagner.net/v2/library/debian-bullseye/blobs/sha256:bd897bb914af2ec64f1cff5856aefa1ae99b072e38db0b7d801f9679b04aad74
+:   responseCode: 200
+    contentType: application/octet-stream
+    contentLength: 31368912
+    sha256: bd897bb914af2ec64f1cff5856aefa1ae99b072e38db0b7d801f9679b04aad74
+    shake256: abc3fb5c2ee2e130b032ba0e6bcf1be5859ccefcf883960442a3dcecf5a42707b51d6970fbe5daba5f84a379c2de38cd03de263e571214cf067b0d075872034d
+? registry.k8s.pwagner.net/v2/library/debian-bullseye/blobs/sha256:fa5143db8ed4e34a7bab43e414088a04ae0585a24ea8c6d4fcf09f5f785ae59d
+:   responseCode: 200
+    contentType: application/octet-stream
+    contentLength: 207
+    sha256: fa5143db8ed4e34a7bab43e414088a04ae0585a24ea8c6d4fcf09f5f785ae59d
+    shake256: a75380797f2b885554d189873942f7ba6c947d67da2a7b8f9bbb615952c1d94bb57f1bc75904b6396ba4a7b969185e7b205a602a0eefe65d9296be6ce8ad9dba
+? registry.k8s.pwagner.net/v2/library/debian-bullseye/manifests/sha256:1c5035cccb93409674494766f5c682558b89ae345a06b8417ac1c3f37c03cf18
+:   responseCode: 200
+    contentType: application/vnd.docker.distribution.manifest.v2+json
+    contentLength: 1362
+    sha256: 1c5035cccb93409674494766f5c682558b89ae345a06b8417ac1c3f37c03cf18
+    shake256: a8f83b9a30a90d4193b991d0eae6a669e4cf81cc32fd784bc7ff24f780c869e006aad17a6189324f0273eedc3cd93974099b152505d6e461f1be36de8a19c692
