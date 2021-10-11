@@ -14,7 +14,7 @@ USER nobody
 
 # Get and configure kernel sources
 RUN apt-get source linux
-WORKDIR /build/linux-5.10.46
+WORKDIR /build/linux-5.10.70
 COPY config .config
 RUN make oldconfig
 
