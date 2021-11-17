@@ -1,23 +1,23 @@
 debian.mirror.rafal.ca/debian-security/dists/bullseye-security/InRelease:
     responseCode: 200
     contentLength: 44101
-    sha256: c62aac17cdf563a49448d906586a3a7a075fb23418a03fa9f02a00122bfba7a6
-    shake256: 9eb40ab597e3909bb25f9947679042ad8e9cb51f824348c9a120560c936b0373214199f719f746d40b4edbb56e3691ba80618f2b2b80cffd6637f8fece9ed98d
-? debian.mirror.rafal.ca/debian-security/dists/bullseye-security/main/binary-amd64/by-hash/SHA256/625e26869b94367895de8b7382f933bbff7559d196a3fddd48bccc9e350f197a
+    sha256: 1dfb0023ed4030c575f4c44daa07da9bd40d6ba12a6190610e12df9661084fe3
+    shake256: 0c67080c9bee1bafb68c926b1a52978175215bf38aa80217111197e9e6d311b3eb101afbbdc56576a292abccb5a175c62dbd6761b2170e4d8aa29cccbb067cf4
+? debian.mirror.rafal.ca/debian-security/dists/bullseye-security/main/binary-amd64/by-hash/SHA256/8aa762f8c756053605bce5378d442e015f5f62b4c6907601174a0cd9e1166046
 :   responseCode: 200
-    contentLength: 80296
-    sha256: 625e26869b94367895de8b7382f933bbff7559d196a3fddd48bccc9e350f197a
-    shake256: faae6d8a81389fcd043e466c598a0e00b28bf0d24952b312298f8efa4cdac718ba9c9fcb6186aa9c39a5816b1d23272af066d02b349f41ffec0051003a3e4b6f
-? debian.mirror.rafal.ca/debian-security/dists/bullseye-security/main/source/by-hash/SHA256/197692acfbf821ae9e7d73297d127b73fb083f0671ff4f24d68d54b53fbe367a
+    contentLength: 92752
+    sha256: 8aa762f8c756053605bce5378d442e015f5f62b4c6907601174a0cd9e1166046
+    shake256: 348aa0ae0d90c0d0b4ac9a6253be10fbfa5a581c54f93baffa1ea4834fed30407132598f98245f49425dc0ac56e2c3ae0fecfdbe97efda009d29628a0ace14c7
+? debian.mirror.rafal.ca/debian-security/dists/bullseye-security/main/source/by-hash/SHA256/e8e8ad72f14777b56c4d9bc9f58e45553d5df18bd3fcbf4af657d68fea94b91c
 :   responseCode: 200
-    contentLength: 45116
-    sha256: 197692acfbf821ae9e7d73297d127b73fb083f0671ff4f24d68d54b53fbe367a
-    shake256: 3b1bd8710f6898896cd1d5f8caadb49fb626a80b44861d01c391c229762c37dc3d24c6b8ab2485f9ae86cb241a65a356ae4c2e5df54655af6fbd56a8115d0dbc
+    contentLength: 67040
+    sha256: e8e8ad72f14777b56c4d9bc9f58e45553d5df18bd3fcbf4af657d68fea94b91c
+    shake256: 95527251c492ebc826b26835e6105c2a18b8a6b9fc758635ece208bd9e501954a8fc07a6d3fe9950cbf6e31d4c0429e36198539a5ec1c19c5b4325b45b17a384
 debian.mirror.rafal.ca/debian/dists/bullseye-updates/InRelease:
     responseCode: 200
     contentLength: 39353
-    sha256: 7bbce289e29a06533b4926ed6934c436da678de5c6fbfbde0c6b93e87df287c1
-    shake256: 95d7c0d472c0abfc1b1da9e4c683d7408c2e6d5a22ba9a0e5ed9d126b860be62378aba051d9d7d30c0e71daf4bee0fc0dd92a354f28ebded6bc76fe520cc5dfb
+    sha256: d73155eb0f7ab96d6d19957ab63f89bc78bd026a025788ad8663d6abb6d7e577
+    shake256: 3f8f03775e0f08218966a317bb2bbd3c2ac2bf9e8bef76ca8fd7c32431c7c5cd7503c724cbff799790773c22013efc28a67a7a889adba06869373dde1e617588
 ? debian.mirror.rafal.ca/debian/dists/bullseye-updates/main/binary-amd64/by-hash/SHA256/0371261a6f2b14d136bebd8057f886e00b60edf7db27bca86a12bcbd049ac09c
 :   responseCode: 200
     contentLength: 2592
