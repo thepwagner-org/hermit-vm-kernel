@@ -1,4 +1,4 @@
-FROM registry.k8s.pwagner.net/library/debian-bullseye:latest@sha256:2dcd5e81ca2aa4f0e91afc7ae2b8434d863bea1db7d4632c04a1f06fc423f591 AS builder
+FROM registry.k8s.pwagner.net/library/debian-bullseye:latest@sha256:0c0b5926a0150ad17028a45cb07ac2c574778cbefbde671d67597a21ed0c3f8d AS builder
 
 # Get build dependencies
 RUN echo "deb-src http://debian.mirror.rafal.ca/debian bullseye main" >> /etc/apt/sources.list && \
