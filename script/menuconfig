@@ -1,0 +1,15 @@
+#!/bin/bash
+
+set -e
+
+IMAGE=hermit-guest-kernel-sources
+docker build \
+  --target=sources \
+  --progress=plain \
+  -t "$IMAGE" .
+
+docker run --rm -it \
+  -v "$(pwd):/out" \
+  --user 0:0 \
+  $IMAGE /bin/bash -c \
+  "make menuconfig && cp .config /out/config"
