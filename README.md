@@ -1,4 +1,4 @@
-# hermit-guest-kernel
+# hermit-vm-kernel
 
 This is the kernel used by [hermit-ci](https://github.com/thepwagner/hermit), based on the [debian/stable sources](https://tracker.debian.org/pkg/linux-signed-amd64).
 
