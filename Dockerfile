@@ -1,4 +1,4 @@
-FROM registry.k8s.pwagner.net/library/debian-bullseye:latest@sha256:0c0b5926a0150ad17028a45cb07ac2c574778cbefbde671d67597a21ed0c3f8d AS sources
+FROM registry.k8s.pwagner.net/library/debian-bullseye:latest@sha256:eb167b5a9b4bfeb37bb9fa5b09371c4513e67fe7e2818c5ba2adeb1f03949e75 AS sources
 
 # Get build dependencies
 RUN echo "deb-src http://debian.mirror.rafal.ca/debian bullseye main" >> /etc/apt/sources.list && \
@@ -19,7 +19,7 @@ USER nobody
 
 # Get and configure kernel sources
 RUN apt-get source linux
-WORKDIR /build/linux-5.10.70
+WORKDIR /build/linux-5.10.92
 COPY config .config
 RUN make oldconfig
 

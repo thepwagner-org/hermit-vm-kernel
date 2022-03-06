@@ -1,48 +1,137 @@
 debian.mirror.rafal.ca/debian-security/dists/bullseye-security/InRelease:
     responseCode: 200
     contentLength: 44101
-    sha256: 540f01880b5efdc76865f0dcb083f938407988a1915e65ed227249cb6df1d72b
-    shake256: 0380e1c5c76bef9d6a1f8dfe04743072c0a94518c93ec408155adb243383d9a33bb0e7db6ea844ed413e30485a101c7d95d1d8febef2adb00d253e87b7242cc2
-? debian.mirror.rafal.ca/debian-security/dists/bullseye-security/main/binary-amd64/by-hash/SHA256/a6991e7bfd72f6e5b76592a3c8aef10fa0c08ea146ae9a7420210dac9bca56f2
+    sha256: 94ed79ca1585ab3cfe2d905964fc1471ca4fd4440dc2fa5c6da33f361e287797
+    shake256: 5b9f47ae34b93373704dcad7a58900ab6e2ae60848e1c184d32f3bcbcfa1cdc3e070006f84092a935429402b91b60294964bb57731a9d4563f02ee6066756446
+? debian.mirror.rafal.ca/debian-security/dists/bullseye-security/main/binary-amd64/by-hash/SHA256/b084bf5c74fbd64dafdfb3f602102b9fde001997af1f748cbc5a014ca96974a7
 :   responseCode: 200
-    contentLength: 96184
-    sha256: a6991e7bfd72f6e5b76592a3c8aef10fa0c08ea146ae9a7420210dac9bca56f2
-    shake256: e6795f1d1eab3f4fcc41117debc871d31b4a5df4ff345ab9743d3b02eff7c8638eaee70c417a5ec568414ad4fe456edf2a6347befe293cd6b031a7792d970fd6
-? debian.mirror.rafal.ca/debian-security/dists/bullseye-security/main/source/by-hash/SHA256/287f459fb5930c9fa7173d528f90b066b1ae80acd5cf0f48bf455b94bb4ed37b
+    contentLength: 120172
+    sha256: b084bf5c74fbd64dafdfb3f602102b9fde001997af1f748cbc5a014ca96974a7
+    shake256: 66310ea93cfe624d19da3408b72cc7fa026b94d7a47e39b6efe741e920efafc53ee8660d9695c1d16a23231aa48fb504703b4efa48ea081375e58b485a2507da
+? debian.mirror.rafal.ca/debian-security/dists/bullseye-security/main/source/by-hash/SHA256/016aa65c70d2cc9dfdec45ad9cb7b5a678558dcf9228df07cf5b9caf92a6798e
 :   responseCode: 200
-    contentLength: 67996
-    sha256: 287f459fb5930c9fa7173d528f90b066b1ae80acd5cf0f48bf455b94bb4ed37b
-    shake256: a6ff861342c5f0594f0b30921ac5c6ab78565e12fecc65075ff8b44a73a5d0f4fff16fe64ec711174b8c81fad97729a2362c81dbbae1544b80e8bb47cf365fed
+    contentLength: 102872
+    sha256: 016aa65c70d2cc9dfdec45ad9cb7b5a678558dcf9228df07cf5b9caf92a6798e
+    shake256: 9078e0d51c03aad8b8e4b24459554917d6b800336385015e6be517565fd7b17de1606e4023cab204abb7263f27bff81361f98e4228639aaffbd5803ca37a0c93
+debian.mirror.rafal.ca/debian-security/pool/updates/main/e/expat/libexpat1-dev_2.2.10-2+deb11u2_amd64.deb:
+    responseCode: 200
+    contentType: application/x-debian-package
+    contentLength: 140784
+    sha256: b7f92161d3405e4ed42d9ddeb44a088152f2eb2440e3b312307b1d9216f493fd
+    shake256: 9140ac6eb785d3d43efced0714133a122457cece01acf77435cb515454a3db96ab645fcf0a88314d5532a474dfda7bd559263e706cc19daa30415678e1aebc6d
+debian.mirror.rafal.ca/debian-security/pool/updates/main/e/expat/libexpat1_2.2.10-2+deb11u2_amd64.deb:
+    responseCode: 200
+    contentType: application/x-debian-package
+    contentLength: 98192
+    sha256: 9199411e2d136efdd9ec9c97f3ffa3de63c201b953b17e91f6090a7f6aef0eb7
+    shake256: 99892909cc72b93e45e99332462f3730ee7328b888860e77fea570c4f595cf811fa061ce68d4f8b26ae0420e91454071836c80cace74cb6d3873bab822702ee5
+debian.mirror.rafal.ca/debian-security/pool/updates/main/g/ghostscript/ghostscript_9.53.3~dfsg-7+deb11u2_amd64.deb:
+    responseCode: 200
+    contentType: application/x-debian-package
+    contentLength: 97980
+    sha256: ed444a124eddd658edf74df7307344c895971032abefc0f976d206091c204ef2
+    shake256: 168a3adaef7768c50837513493ad48381d594a1f423f11daf0bd05e12192bedad42e1e13b76f724a59ff70686844f3dd489cebf5cefddf51c3b990dca87be127
+debian.mirror.rafal.ca/debian-security/pool/updates/main/g/ghostscript/libgs9-common_9.53.3~dfsg-7+deb11u2_all.deb:
+    responseCode: 200
+    contentType: application/x-debian-package
+    contentLength: 733940
+    sha256: addf27b31c5170eef2c4c4bcc76a77fbf42528bb5e9ce4cf88dfd883c5f3afc5
+    shake256: 1751969c8e89743bd400384488620c1e7639d3987fbf395be6e34dc9965893d21bca7f79e1b29dc950cd96cff4d389b545bb93ec92a18337a20c30e697055155
+debian.mirror.rafal.ca/debian-security/pool/updates/main/g/ghostscript/libgs9_9.53.3~dfsg-7+deb11u2_amd64.deb:
+    responseCode: 200
+    contentType: application/x-debian-package
+    contentLength: 2244932
+    sha256: 811d0d29674a52ab63a6081d9cbd08f9508301696688cab637bd9d72dc3a7f3e
+    shake256: 85d6c516dd316cd871a03047d544aa1bb1d6d4ef7d7adeac3fa3e1ee3622465f895639f0916573d616e219759007fb262b7244ad4072fa347adf8f41bec989dc
+debian.mirror.rafal.ca/debian-security/pool/updates/main/l/linux/linux-libc-dev_5.10.92-1_amd64.deb:
+    responseCode: 200
+    contentType: application/x-debian-package
+    contentLength: 1445540
+    sha256: 7a5fe978cbb300cefd80d001be159fdb4658d87a221651edbf592ed96e96e833
+    shake256: 05b11f87e2ef06d66917059f3f15f8e44f069d192015e5290441a0caaf32260ac4133e78d58aa470e5aadb0ae51c72407f7b50a37ae39fddd0e82ec33c9f9b1a
+debian.mirror.rafal.ca/debian-security/pool/updates/main/l/linux/linux_5.10.92-1.debian.tar.xz:
+    responseCode: 200
+    contentType: application/x-xz
+    contentLength: 1471996
+    sha256: 2273c84a0d4240b89a1fdd432a5d2a1a89f750b8b045e286937a57ea71499412
+    shake256: 5d75db95a5919120abf8b4c3c84baeb9a555261c91f5614fc789e9251c3e31de646c8ab20531e84c19b0b39ee51e33152d288b2a97864f5cc79d6cbb2f22c8a2
+debian.mirror.rafal.ca/debian-security/pool/updates/main/l/linux/linux_5.10.92-1.dsc:
+    responseCode: 200
+    contentLength: 197231
+    sha256: deb5c2eb26755d7954e109757ae410e8c5064dfcc64964e81df26dded3e98095
+    shake256: b1f0a0a2f415b100c1b3308040af0283a3ab7c5e19f699f667bcad0fb4f9a22330128a51fbfeddbf6c905c6b358a924f0c49e6fa784b7a6b24f3a73598f9f1be
+debian.mirror.rafal.ca/debian-security/pool/updates/main/l/linux/linux_5.10.92.orig.tar.xz:
+    responseCode: 200
+    contentType: application/x-xz
+    contentLength: 121665656
+    sha256: 19b747100e42a1e4be3437aebd099db03de6fcf08bb19dbf61250adc65978984
+    shake256: c34a45c4cbd0e430d0cb910401954aa3fc2f9fe2fbe0a04ece35593170721932c641f21237068d543999d0cc1e67add147925c3c660f9da45e803bf1d9f307f7
+debian.mirror.rafal.ca/debian-security/pool/updates/main/r/ruby2.7/libruby2.7_2.7.4-1+deb11u1_amd64.deb:
+    responseCode: 200
+    contentType: application/x-debian-package
+    contentLength: 4202212
+    sha256: 2d5a451785d356de0bdb4d5efb0d09b7504f3e7df7a0c21f19cdd7f37fb9278a
+    shake256: fd67f4827fdf5171a0959e012f1b7d36f7bee398fb1bc8875cb8f8dacc862b96b811725091ba1e5824ca13f899424729750a69f426b5d1dfb350fb258dbd62ba
+debian.mirror.rafal.ca/debian-security/pool/updates/main/r/ruby2.7/ruby2.7_2.7.4-1+deb11u1_amd64.deb:
+    responseCode: 200
+    contentType: application/x-debian-package
+    contentLength: 747140
+    sha256: 35c2d5bae868cc22fa785f0f09bf3f69731fabab26d607721eee0e07f64e15ba
+    shake256: 2bf04b2af3300ab502335e894e8628ed7c270d9d44a4a14ef8a3aca27a514490e018a3c5256eed9612f33cfbc79bef0ad015377616d6077bfc09a771e308cc70
+debian.mirror.rafal.ca/debian-security/pool/updates/main/u/util-linux/bsdextrautils_2.36.1-8+deb11u1_amd64.deb:
+    responseCode: 200
+    contentType: application/x-debian-package
+    contentLength: 145480
+    sha256: b8aa7fdc9136815b4dc05949c81f354ddd4a294ae41bdaee82cd371aaa5ef702
+    shake256: 0bafc19bcf6ea3e6ab3fa7ac7061ee2232e7a674cbbcb42e3fa1198c80b566d4cbf8b37fe52ad8d37d619a41eb2056c058661dec9801f8b70c924d1d8853bfae
+debian.mirror.rafal.ca/debian-security/pool/updates/main/u/util-linux/libblkid-dev_2.36.1-8+deb11u1_amd64.deb:
+    responseCode: 200
+    contentType: application/x-debian-package
+    contentLength: 224896
+    sha256: 3f224b3dc4d094367b45b31c4bc367dd9528f45eba22af77229a7f9be7e6005d
+    shake256: 8748a4b649817e284f868e596106123ed419010e908b6ae3d3f7211e1d55336af4b7b04c7ac5698c6e8afb15e7683e9a72fb9bfd952030a953d4892e783e11cf
+debian.mirror.rafal.ca/debian-security/pool/updates/main/u/util-linux/libmount-dev_2.36.1-8+deb11u1_amd64.deb:
+    responseCode: 200
+    contentType: application/x-debian-package
+    contentLength: 78036
+    sha256: e2ab59f02398ff5f50d58ba5702a3dc27d47b6b028fccab03d0e8060e317f328
+    shake256: d963ff16dda48744a4784c41477145d56a1abd897ba089ab27610e0e2cf91d3d54be7a8c24bd74ae909722c8dd61292b00dca879ec43ed28f2ddba743a0678b1
+debian.mirror.rafal.ca/debian-security/pool/updates/main/u/util-linux/uuid-dev_2.36.1-8+deb11u1_amd64.deb:
+    responseCode: 200
+    contentType: application/x-debian-package
+    contentLength: 99372
+    sha256: 90a533bbb3b82f5c9bedc5da28965ca8223913099f8ac67213e4f8828bfdd2a1
+    shake256: 548246df8cf1e01a4e57b6bf66130b25c904257bbb11103bc75386aa9946b3622aab833d7db4e058c210ad100d9731ac7e44091ef9420b2766b03202a1a2676c
 debian.mirror.rafal.ca/debian/dists/bullseye-updates/InRelease:
     responseCode: 200
     contentLength: 39353
-    sha256: 3e51543d431d9e7bbd30fd44a869f8220271e3968f95b6aefd29b34793276128
-    shake256: 5202c36491295a3751a377b2a31cbfe21d7e90aa5b3020925866bece43dab73c90b20858240c62aea012cc9186a78f5ad053435ba091c2696b3f1acdc3913db4
-? debian.mirror.rafal.ca/debian/dists/bullseye-updates/main/binary-amd64/by-hash/SHA256/0371261a6f2b14d136bebd8057f886e00b60edf7db27bca86a12bcbd049ac09c
+    sha256: ffe9b504593f39251254fd3d2d75bde8a3b3b081462fc053bbc3a05355b5d3ff
+    shake256: 9a949351fb68f4abc70cd5137cc9213ebe0be8c8567083ed7b6fef882381f86883b471e9acc6967aeedf526aac3deb913e28f3d8dc5d1eac1d434a5d5e9efbca
+? debian.mirror.rafal.ca/debian/dists/bullseye-updates/main/binary-amd64/by-hash/SHA256/1b157e478f2893e776e86182c487e8a90a88337420e433d617d516f3d44aaa4e
 :   responseCode: 200
-    contentLength: 2592
-    sha256: 0371261a6f2b14d136bebd8057f886e00b60edf7db27bca86a12bcbd049ac09c
-    shake256: ba3c304923399943cbf2d016f743bfda47727ce4088c1948f06620c54961ee15d0545a17e1cec4edc396291ebd6a1984decbcd1243d792b80a12577c28e475c9
+    contentLength: 2596
+    sha256: 1b157e478f2893e776e86182c487e8a90a88337420e433d617d516f3d44aaa4e
+    shake256: bc54271744a7665bb4bd14cd9712840707326f4c55963164f617dfaf1f21a4564385c3808d2f497b6f87e4f478b7215eb13d723e9af4baf29d3a40341c954ac3
 debian.mirror.rafal.ca/debian/dists/bullseye/InRelease:
     responseCode: 200
-    contentLength: 115945
-    sha256: ac0750571305f7a531bae7489216a053f9a02befb6bfbb356ddd5a4e95840b17
-    shake256: 6eb20c2f9753dc5d30d4307efb616bd37d19920696776704ce2730bce013f89b3dd945db7f289a8ee0aa80896143eed549d72c4830d9af4511dceaf7c50c7227
+    contentLength: 115946
+    sha256: aa0d53f69b384e60088a2363558a49561258f62fac1662fb0f1dea4a4325af66
+    shake256: 4701b3131a5bb3bac0caca2371428c6cf77280750f3810e1655c2ebed038434cf8f9df33548c8794666470e534763393d8bd8b37126d9b419d4b540b155da978
 ? debian.mirror.rafal.ca/debian/dists/bullseye/contrib/binary-amd64/by-hash/SHA256/104237b66d5612b700de4a80322d330a2e6b112d0bad0a961801a51c67351a11
 :   responseCode: 200
     contentLength: 50468
     sha256: 104237b66d5612b700de4a80322d330a2e6b112d0bad0a961801a51c67351a11
     shake256: 25a732c924cf4ba79cdbbaad14c803324826cef921724f788eae05c87af639e8f8d3bf7c29cc083a5e4c34d5303a1bde5f63660d88321371960ccd27f92750ad
-? debian.mirror.rafal.ca/debian/dists/bullseye/main/binary-amd64/by-hash/SHA256/f9ea21b854a4212513001d30bfa5c6579e35b3a6dd48d6cc376f2296219c14ed
+? debian.mirror.rafal.ca/debian/dists/bullseye/main/binary-amd64/by-hash/SHA256/6d5509534097dd37bbcc2ed7bb18e117511395ac3812562abbe019b64071e1bf
 :   responseCode: 200
-    contentLength: 8179992
-    sha256: f9ea21b854a4212513001d30bfa5c6579e35b3a6dd48d6cc376f2296219c14ed
-    shake256: 03eb7f93a50d0110bf5ed26a3ab323fb6a969c68a706a5972061de58d10f4dc002ecc43e97085dd475acc421e51a7dc9f630c39386f37fd06a323c7403fa2695
-? debian.mirror.rafal.ca/debian/dists/bullseye/main/source/by-hash/SHA256/1801d18c1135168d5dd86a8cb85fb5cd5bd81e16174acc25d900dee11389e9cd
+    contentLength: 8183088
+    sha256: 6d5509534097dd37bbcc2ed7bb18e117511395ac3812562abbe019b64071e1bf
+    shake256: 667769d1837da6d86e2d9d73d6876639cc4c2b317203c7528e386136b825a497bb1732269cc54bf950d270f5940f71e50ad7fe2340914138395fd859d074812e
+? debian.mirror.rafal.ca/debian/dists/bullseye/main/source/by-hash/SHA256/c5123b323b1f9bae1fc82092bca8449e99d420cbc6ec527dbae2b0c1fc3a2dee
 :   responseCode: 200
-    contentLength: 8616784
-    sha256: 1801d18c1135168d5dd86a8cb85fb5cd5bd81e16174acc25d900dee11389e9cd
-    shake256: 6ad033dbeadeace834357d2d53fb82ebc91f6d61c1bb969d49d8733598a41a70ced1e4ecd0b42677a8324ee1f55d0edbbcc9fa16d689dd45f24596df9208e610
+    contentLength: 8626200
+    sha256: c5123b323b1f9bae1fc82092bca8449e99d420cbc6ec527dbae2b0c1fc3a2dee
+    shake256: b2bd9f79675ee1f9b4092d202d2b337bd8a3125c78430ba62b93fbf33d4e73c85f314c97797e3d06e5e86d8c109db45f6c5cd9dc563730e4747136ebc8ced3fc
 ? debian.mirror.rafal.ca/debian/dists/bullseye/non-free/binary-amd64/by-hash/SHA256/8193c44c1159df8a67b40d448049dbdef5382ff88c64247b3531d4ac3ff23292
 :   responseCode: 200
     contentLength: 93776
@@ -342,18 +431,6 @@ debian.mirror.rafal.ca/debian/pool/main/e/elfutils/libelf1_0.183-1_amd64.deb:
     contentLength: 165284
     sha256: e1ad132d502b255023c222d0cae1d02ca941f6b68fd0e9b908c6004cc326592c
     shake256: 69690046386518e2ac150f7abcee9ed3c647065f91d8472ce4a7f4addbd4cbc3ec41b3462fc835f91e2c440c2fab9de84adf5686e5497e127a4c01b4007a5ce0
-debian.mirror.rafal.ca/debian/pool/main/e/expat/libexpat1-dev_2.2.10-2_amd64.deb:
-    responseCode: 200
-    contentType: application/x-debian-package
-    contentLength: 139752
-    sha256: e9ec11e23a308b252dfb8e3a8a501f91e78b226bdde1b6ce0a938889c0b1ff3f
-    shake256: c0c5bbcaccd895fd4cca8e40d5fd32b05d21ff01845e4d9f259f3c2f48ffe5b4f17ba853a45618047fc5f1036e86e06a33876ef9e353faf707e75a0f556b1faa
-debian.mirror.rafal.ca/debian/pool/main/e/expat/libexpat1_2.2.10-2_amd64.deb:
-    responseCode: 200
-    contentType: application/x-debian-package
-    contentLength: 96904
-    sha256: eda6663f34375a9456c8c701002f1271bc90ac2627b9fb0892474e65eae1b668
-    shake256: ea2b4b38799ae90c980b7558a82e453b0c78c248b86260f51444c56fbd4332df81454301710406fd68769fca13d19636f4bc89262640913d205215b241aa1eba
 debian.mirror.rafal.ca/debian/pool/main/f/fakeroot/fakeroot_1.25.3-1.1_amd64.deb:
     responseCode: 200
     contentType: application/x-debian-package
@@ -696,24 +773,6 @@ debian.mirror.rafal.ca/debian/pool/main/g/gettext/gettext_0.21-4_amd64.deb:
     contentLength: 1311096
     sha256: 34fd1cc1527072ffb737f09c916a445cbe3787411b1f201a042073cf2ccaafa1
     shake256: 21568da033c5e6e468c046abe8b95dd56479f85eb550916a91709dd1f912a3c9b04ccabbd96b5eaed4c5f94cbc985c193e40c092641191186ccb5b1d26ad1a6d
-debian.mirror.rafal.ca/debian/pool/main/g/ghostscript/ghostscript_9.53.3~dfsg-7+deb11u1_amd64.deb:
-    responseCode: 200
-    contentType: application/x-debian-package
-    contentLength: 97888
-    sha256: f236e4327e9c57b1275c1edc75592e36d5ddcc45c75dae96c0e64416893814f6
-    shake256: be1f2f3d8e9ea27c9513cbc3c99805925ffce5aac2e17ea280a276b867a7e807577b865b4ee20979700c81f0bc21268462ca87e0324e6bd200619703ce6eb707
-debian.mirror.rafal.ca/debian/pool/main/g/ghostscript/libgs9-common_9.53.3~dfsg-7+deb11u1_all.deb:
-    responseCode: 200
-    contentType: application/x-debian-package
-    contentLength: 734260
-    sha256: cae0353bb5eef64f1719218c6fae52101641a333a8ef653e26165e48eb8b9135
-    shake256: 163f188273fdb8f75f69df5755dddcc8ea0c1e604ab6561322b0c778dae3579c8cac6811dde7c8844b690a1e9cba6e83f060994a5baf118700358d715466363d
-debian.mirror.rafal.ca/debian/pool/main/g/ghostscript/libgs9_9.53.3~dfsg-7+deb11u1_amd64.deb:
-    responseCode: 200
-    contentType: application/x-debian-package
-    contentLength: 2247664
-    sha256: e3825227d761c70b60847b3f77884fe43a5101dec5890a7b48b4261e9cd6c0a3
-    shake256: 1ecaaff491c34ff649dac1c9ee041bcff5466a397b42b126ae72e2653ddf6523bd4d3dff4c4cb9e45bb26a698ef9f73c71368a04c47ddd8a2487a4e1a68035c9
 debian.mirror.rafal.ca/debian/pool/main/g/glib2.0/libglib2.0-0_2.66.8-1_amd64.deb:
     responseCode: 200
     contentType: application/x-debian-package
@@ -912,29 +971,6 @@ debian.mirror.rafal.ca/debian/pool/main/l/lcms2/liblcms2-2_2.12~rc1-2_amd64.deb:
     contentLength: 150120
     sha256: 0608ecb6ed258814e390b52b3fb50f2a6d3239b5ecb1086292ae08be00a67b0f
     shake256: 6d31752ef4b588df93b97278dfafb19d76606097ace90db37a77d83bb2fb402034ec5b836560eeeadae72f953fbb75b24184e8cddd955b649de57f6c38b294b7
-debian.mirror.rafal.ca/debian/pool/main/l/linux/linux-libc-dev_5.10.70-1_amd64.deb:
-    responseCode: 200
-    contentType: application/x-debian-package
-    contentLength: 1410164
-    sha256: d06467c00744c15de80bef617c2496d9ebe225a14c8006bee824a36786d54226
-    shake256: 6189d9f1d872d09fe66e2c0568b7513136eb1f32fb29626b41f38f07c3b66bcf96404500804c0c78a9eb7d1f3c89c9375b4046baa7609b3953a61aaeb002f9a2
-debian.mirror.rafal.ca/debian/pool/main/l/linux/linux_5.10.70-1.debian.tar.xz:
-    responseCode: 200
-    contentType: application/x-xz
-    contentLength: 1441560
-    sha256: 254a34bec01a227d697cdbc98ae3dc0e6846c50d329e5b6f27fa5f1b6e5fc576
-    shake256: d8ed1dd97da475c5ba7203e093005cc6c48955a885f570b2e6da7992d18ea2cb92e0ff4517f91596b9b71b44ea9d84e60f113f1c8c1a7a5569f238bc7ad5a1e2
-debian.mirror.rafal.ca/debian/pool/main/l/linux/linux_5.10.70-1.dsc:
-    responseCode: 200
-    contentLength: 195000
-    sha256: c02dd69355d8046bfb4956ce8b6931b7c3814d83903946a1a8ff7056217a6319
-    shake256: 9a60d97d6ff341bdda919ae0e1dfa0fff57bd419e0177092bc7696ac097cf9b79e898eecad88bee9d86964287aec9b57e5f78bfe751066ea456cdff07c134b1f
-debian.mirror.rafal.ca/debian/pool/main/l/linux/linux_5.10.70.orig.tar.xz:
-    responseCode: 200
-    contentType: application/x-xz
-    contentLength: 121628616
-    sha256: 82046b8fe3a723bf76c84d7a27867a69b98721d5812efb078a54e859fdfd805f
-    shake256: dc5f2d680b7fbfef93ae5e23a7f5a7e5d5673b828647f8809a020c8400d66014f274a307c47b2a1b510759a7a9b1e88979e8d42bfc476166d00781fe6b80d239
 debian.mirror.rafal.ca/debian/pool/main/l/lmodern/fonts-lmodern_2.004.5-6.1_all.deb:
     responseCode: 200
     contentType: application/x-debian-package
@@ -1787,18 +1823,6 @@ debian.mirror.rafal.ca/debian/pool/main/r/ruby-xmlrpc/ruby-xmlrpc_0.3.0-2_all.de
     contentLength: 23712
     sha256: 09606c91eb7be0bbd5e66a4a9e7fc473726fd699b010551e084f89c9c544a428
     shake256: 5d5e9f4f9deaa27c09caf10e4e7037df09b2e0cc621ba42f9bcd1d24bf9c88868d35acebe662bbba810686bd7403b3f8c7a76876d11f689a87e4804674bdd925
-debian.mirror.rafal.ca/debian/pool/main/r/ruby2.7/libruby2.7_2.7.4-1_amd64.deb:
-    responseCode: 200
-    contentType: application/x-debian-package
-    contentLength: 4199616
-    sha256: 457c0cb76cf0fb5fe30fbd9edc08df67f34a7322a881e654f4f42c89aada4bf3
-    shake256: f28e06ed767f129ba8785f7fd4bb48b10683de8cdd4bc1d6847f573cdb2b13eb30e7a05bb27c9440f02294675c5be20e5fee05d90e354f5face9768388a2bb51
-debian.mirror.rafal.ca/debian/pool/main/r/ruby2.7/ruby2.7_2.7.4-1_amd64.deb:
-    responseCode: 200
-    contentType: application/x-debian-package
-    contentLength: 746996
-    sha256: ebc6dc329373ce5881ba4b8b899c537b23a79ce457515decfe2a10d99378a66a
-    shake256: 16bfed62aefa6a77f1a0018cc1882005d4578aac33360d4b16b0f973231a5f6a29bc0f0c69aaf4edef8416d0bf7104a569979cc1d22a37902953e2829eebb668
 debian.mirror.rafal.ca/debian/pool/main/r/rubygems-integration/rubygems-integration_1.18_all.deb:
     responseCode: 200
     contentType: application/x-debian-package
@@ -2027,30 +2051,6 @@ debian.mirror.rafal.ca/debian/pool/main/u/underscore/libjs-underscore_1.9.1~dfsg
     contentLength: 100276
     sha256: 85fb8fd215bc742f1a17285b3bf38a2a0d0aa5b2c2188f8d7dec2323d2ab945d
     shake256: 5c3dc92bc6779d84b077adacaa2f6a12f1f374539b86a6a967265f91c5822c184d4bd91d8bbfe85ddb730b2b1d88d25d7cc619c72485f59035fccb21f9871e71
-debian.mirror.rafal.ca/debian/pool/main/u/util-linux/bsdextrautils_2.36.1-8_amd64.deb:
-    responseCode: 200
-    contentType: application/x-debian-package
-    contentLength: 145132
-    sha256: 40734e423fc07191d479bfce109d5ebb4530a18b5e8568e244dcc71423636d4c
-    shake256: 2cc56908146a3eb3a0d87827e0745c71924f1c9d93930d56fbdd7e7492bf1bf14d582aef2632b5d150af9a6e5308960f495306abefb0cd07d4467d54c9529c71
-debian.mirror.rafal.ca/debian/pool/main/u/util-linux/libblkid-dev_2.36.1-8_amd64.deb:
-    responseCode: 200
-    contentType: application/x-debian-package
-    contentLength: 224420
-    sha256: b70400a5e6896bbce42b8a6559c4f5ce7e8e9cdd76f6f2f1678233177d85b652
-    shake256: 17c2653d6e927c629f6f725c03f60abef73473db2fcfe9aaf9327e9f8110058479d3d9f93f381a69ed91fd79fb6af39177ffcfa36a0c70c50d58b9c3f1707676
-debian.mirror.rafal.ca/debian/pool/main/u/util-linux/libmount-dev_2.36.1-8_amd64.deb:
-    responseCode: 200
-    contentType: application/x-debian-package
-    contentLength: 77848
-    sha256: 6b865fea9fcf1321913fd4175641c68c5f45ab82dec6f10ea26005903e6868e3
-    shake256: 1dffc37028a5587a2024d7b36725bf6bebb3d960613ab2a3084a1b9fbd89ddeabee79a23b7482bf0fb58350a722f7b0c0f58dc84f2e87489e41669eb95e73084
-debian.mirror.rafal.ca/debian/pool/main/u/util-linux/uuid-dev_2.36.1-8_amd64.deb:
-    responseCode: 200
-    contentType: application/x-debian-package
-    contentLength: 99192
-    sha256: dc15f33e33962b73e688dfd6b445ff0208e23e9b50bdea7d23ca8f339b924d8a
-    shake256: 5f7fce7557bbf753e7601fc6efaea015ec1ace3923b5c184379227b94fa25561d96a2eb9e2f03c2a86c77e8ea870cae32b68aaca4b57037e8a84a5d18466ccc8
 debian.mirror.rafal.ca/debian/pool/main/x/xdg-utils/xdg-utils_1.1.3-4.1_all.deb:
     responseCode: 200
     contentType: application/x-debian-package
